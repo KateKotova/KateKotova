@@ -34,7 +34,7 @@
 ![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKotova&theme=solarized_dark)
 
 ### Ссылки
-- Портфолио на Behance: [https://github.com/KateKotova](https://www.behance.net/Kate_Kotova)
+- Портфолио на Behance: [https://www.behance.net/Kate_Kotova](https://www.behance.net/Kate_Kotova)
 - Портфолио на Яндекс-диске: [https://yadi.sk/d/5I1PRxiUd-doFw?w=1](https://yadi.sk/d/5I1PRxiUd-doFw?w=1)
 - Свидетельства о гос. регистрации ПО: [https://yadi.sk/d/kK8PwPF0CNgONw?w=1](https://yadi.sk/d/kK8PwPF0CNgONw?w=1)
 
