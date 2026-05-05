@@ -41,7 +41,7 @@
 ### Контакты
 - Телефон: 8-926-357-09-37
 - E-mail: katekotova_86@mail.ru
-- Telegram: KateKotova
+- Telegram: [KateKotova](https://t.me/KateKotova)
 - Сетка: [https://setka.ru/users/942fe656-8bd8-4a5b-903b-5d97b26babd6](https://setka.ru/users/942fe656-8bd8-4a5b-903b-5d97b26babd6)
 
 <!--
