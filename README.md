@@ -33,6 +33,15 @@
 ![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KateKotova&theme=solarized_dark)
 ![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKotova&theme=solarized_dark)
 
+Портфолио на Behance: [https://github.com/KateKotova](https://www.behance.net/Kate_Kotova)
+Портфолио на Яндекс-диске: [https://yadi.sk/d/5I1PRxiUd-doFw?w=1](https://yadi.sk/d/5I1PRxiUd-doFw?w=1)
+Свидетельства о гос. регистрации ПО: [https://yadi.sk/d/kK8PwPF0CNgONw?w=1](https://yadi.sk/d/kK8PwPF0CNgONw?w=1)
+
+Телефон: 8-926-357-09-37
+E-mail: katekotova_86@mail.ru
+Telegram: KateKotova
+Сетка: [https://setka.ru/users/942fe656-8bd8-4a5b-903b-5d97b26babd6](https://setka.ru/users/942fe656-8bd8-4a5b-903b-5d97b26babd6)
+
 <!--
 **KateKotova/KateKotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
