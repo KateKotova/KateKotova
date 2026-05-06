@@ -37,6 +37,7 @@
 - Портфолио на Behance: [https://www.behance.net/Kate_Kotova](https://www.behance.net/Kate_Kotova)
 - Портфолио на Яндекс-диске: [https://yadi.sk/d/5I1PRxiUd-doFw?w=1](https://yadi.sk/d/5I1PRxiUd-doFw?w=1)
 - Свидетельства о гос. регистрации ПО: [https://yadi.sk/d/kK8PwPF0CNgONw?w=1](https://yadi.sk/d/kK8PwPF0CNgONw?w=1)
+- Патент на промышленный образец элемента пазла (для [игры](https://github.com/KateKotova/tiling-puzzle)): [https://www.fips.ru/cdfi/fips.dll?ty=29&docid=00151484&ki=S](https://www.fips.ru/cdfi/fips.dll?ty=29&docid=00151484&ki=S)
 
 ### Контакты
 - Телефон: 8-926-357-09-37
